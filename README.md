@@ -1,5 +1,5 @@
 
-<img src="https://github.com/maevacrh/maevacrh/GigHeader.gif">
+<img src="../GigHeader.gif">
 
 
 
